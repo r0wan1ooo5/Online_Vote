@@ -10,10 +10,14 @@
 1. **登入/註冊**  
    - 註冊時需輸入投票名稱、最低候選人人數、最低聯署標準、投票人數上限與最低投票率要求。  
    - 系統生成開票金鑰與登入鑰匙，確保安全性與專屬性。
+![螢幕擷取畫面 2024-11-24 041908](https://github.com/user-attachments/assets/34d809db-7102-4994-9b3e-313c0da4a8d0)
+![螢幕擷取畫面 2024-11-24 042014](https://github.com/user-attachments/assets/a70f6658-9674-4601-91e6-3bf46a4d88c6)
+
 
 2. **參選與聯署**  
    - 顯示最低候選人數與聯署標準。
    - 使用者可點選 `Stand for Election` 成為候選人並建立聯署資料。候選人介紹將於 `Show More` 頁面展示，包括姓名、照片、政見與目前聯署份數。  
+![image](https://github.com/user-attachments/assets/7b286ae4-ab45-443c-9eeb-c258016fb33a)
 
 3. **聯署（Cosign）**  
    - 使用者需註冊並登入後方能進行聯署。完成聯署資格後，將進一步推動投票階段。
