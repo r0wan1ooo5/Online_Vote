@@ -18,6 +18,7 @@
    - 顯示最低候選人數與聯署標準。
    - 使用者可點選 `Stand for Election` 成為候選人並建立聯署資料。候選人介紹將於 `Show More` 頁面展示，包括姓名、照片、政見與目前聯署份數。  
 ![image](https://github.com/user-attachments/assets/7b286ae4-ab45-443c-9eeb-c258016fb33a)
+![螢幕擷取畫面 2024-11-24 044225](https://github.com/user-attachments/assets/f399be83-9429-4054-833d-253b5589bd09)
 
 3. **聯署（Cosign）**  
    - 使用者需註冊並登入後方能進行聯署。完成聯署資格後，將進一步推動投票階段。
@@ -25,9 +26,12 @@
 4. **投票**  
    - 當候選人數滿足最低要求時，投票功能啟用。登入後，選民可查看候選人資訊並投票。  
    - 系統設有防呆機制，防止重複投票。開票時需輸入主辦方提供的開票金鑰，完成後即顯示結果。
+![螢幕擷取畫面 2024-11-24 044701](https://github.com/user-attachments/assets/c3364e6f-ced4-4cf7-b752-e1a82583abf7)
+![螢幕擷取畫面 2024-11-24 044724](https://github.com/user-attachments/assets/1ff517b6-4076-4a74-a972-e3bc6854cbf4)
 
 5. **投票結果**  
    - 系統顯示最終得票數及當選名單，確保透明與公平。
+![螢幕擷取畫面 2024-11-24 055102](https://github.com/user-attachments/assets/052eb6f3-c3d0-4d04-a7c3-921f979222d3)
 
 ---
 
