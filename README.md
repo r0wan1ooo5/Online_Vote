@@ -20,8 +20,8 @@
 ![image](https://github.com/user-attachments/assets/7b286ae4-ab45-443c-9eeb-c258016fb33a)
 
 3. **聯署（Cosign）**  
-   - 候選人介紹將於 `Show More` 頁面展示，包括姓名、照片、政見與目前聯署份數。  
-   - 使用者需註冊並登入後方能進行聯署。完成聯署資格後，將進一步推動投票階段。
+   - 候選人介紹將於 `Show More` 頁面展示，包括姓名、照片及政見。  
+   - 使用者需註冊並登入後方能進行聯署，聯屬頁面會顯示目前聯署份數。完成聯署資格後，將進一步推動投票階段。
 ![螢幕擷取畫面 2024-11-24 062638](https://github.com/user-attachments/assets/9fd6a2ed-ea50-4f37-b1b5-1d2fc9e7925e)
 ![螢幕擷取畫面 2024-11-24 044225](https://github.com/user-attachments/assets/f399be83-9429-4054-833d-253b5589bd09)
 
